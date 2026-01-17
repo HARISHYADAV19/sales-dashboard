@@ -1,5 +1,6 @@
-import React, { useState, useEffect, createContext, useContext, useMemo, memo } from 'react';
-import { Camera, Users, Phone, Settings, LogOut, Filter, Search, X, Eye, Edit2, Save, ChevronDown } from 'lucide-react';
+import React, { useState, createContext, useContext, useMemo, memo } from 'react';
+import { Users, Phone, Settings, LogOut, X, Eye, Edit2, Save } from 'lucide-react';
+
 
 // ==================== CONTEXT & STATE MANAGEMENT ====================
 
